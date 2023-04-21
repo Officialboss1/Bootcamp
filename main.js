@@ -1,5 +1,5 @@
 function Alertm(){
-    alert("Click on the Whatsapp button to entroll now!")
+    alert("Click on the Whatsapp button to enroll now!")
 
 
     let options = {
